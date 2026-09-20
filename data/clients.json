@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cl-001",
+    "name": "Mirabilis",
+    "industry": "Hospitality / Restobar",
+    "contactEmail": "gm@mirabilis.cafe",
+    "contactName": "General Manager",
+    "status": "active",
+    "services": ["GMB reviews", "Social creatives", "Reputation"],
+    "notes": "Beach-side brand voice: warm, staff shout-outs when named.",
+    "createdAt": "2025-11-12T10:00:00+05:30"
+  },
+  {
+    "id": "cl-002",
+    "name": "Naturals",
+    "industry": "Beauty / Salon",
+    "contactEmail": "priya.nair@naturals.in",
+    "contactName": "Priya Nair",
+    "status": "active",
+    "services": ["Review replies", "Local SEO", "Content"],
+    "notes": "Prefer shorter empathetic replies for 1–2★ (wait-time theme).",
+    "createdAt": "2025-08-01T10:00:00+05:30"
+  },
+  {
+    "id": "cl-003",
+    "name": "24 Roots",
+    "industry": "Café / Brunch",
+    "contactEmail": "ops@24roots.com",
+    "contactName": "Ops Lead",
+    "status": "active",
+    "services": ["Instagram", "Reels", "GMB"],
+    "notes": "ECR brunch push — weekend stories + Reels.",
+    "createdAt": "2026-01-20T10:00:00+05:30"
+  },
+  {
+    "id": "cl-004",
+    "name": "INORBIT",
+    "industry": "Retail / Mall",
+    "contactEmail": "accounts@inorbit.in",
+    "contactName": "Accounts",
+    "status": "active",
+    "services": ["Digital retainer", "Campaigns", "Reviews"],
+    "notes": "Invoice INV-INORBIT-2026-031 due 25 Sep 2026.",
+    "createdAt": "2024-06-15T10:00:00+05:30"
+  },
+  {
+    "id": "cl-005",
+    "name": "Panifico",
+    "industry": "Bakery",
+    "contactEmail": "hello@panifico.in",
+    "contactName": "Owner",
+    "status": "onboarding",
+    "services": ["GMB setup", "Review workflow"],
+    "notes": "Onboarding — unreplied reviews audit pending.",
+    "createdAt": "2026-09-01T10:00:00+05:30"
+  }
+]
