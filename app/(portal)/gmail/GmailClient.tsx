@@ -122,7 +122,7 @@ export function GmailClient({ initial }: { initial: Email[] }) {
                     {selected.subject}
                   </h2>
                   <p className="mt-1 text-sm text-zinc-400">
-                    {selected.fromName} <{selected.from}> · {selected.client}
+                    {`${selected.fromName} <${selected.from}>${selected.client ? ` · ${selected.client}` : ""}`}
                   </p>
                   <p className="mt-1 text-xs text-zinc-500">
                     {new Date(selected.receivedAt).toLocaleString("en-IN", {
