@@ -50,7 +50,7 @@ export default function SettingsPage() {
           <li>
             Create OAuth client ID (Web) with redirect URI{" "}
             <code className="text-cyan-300">
-              https://<your-domain>/api/auth/google/callback
+              https://&lt;your-domain&gt;/api/auth/google/callback
             </code>
             .
           </li>
