@@ -1,0 +1,92 @@
+[
+  {
+    "id": "rv-001",
+    "client": "Mirabilis",
+    "platform": "GMB",
+    "reviewer": "Jaiwin Anton",
+    "rating": 1,
+    "text": "We had the worst experience, food was really bad, wont recommend, not worth the hype actually, we couldnt enjoy the place as they were particular in closing it soon",
+    "reviewedAt": "2026-09-06T20:00:00+05:30",
+    "status": "draft",
+    "draftReply": "Dear Jaiwin, we sincerely apologise that your experience fell short of expectations. Feedback regarding the food and closing time has been noted and shared with our management team. We would welcome the opportunity to make this right on a future visit. Please contact us directly so we may assist you."
+  },
+  {
+    "id": "rv-002",
+    "client": "Mirabilis",
+    "platform": "GMB",
+    "reviewer": "sivapriya natesan",
+    "rating": 3,
+    "text": "Awesome ambience, vegetarian options can be improved as its one of the restobar in beach side. Very good service by Sukla ... thank you",
+    "reviewedAt": "2026-09-13T19:00:00+05:30",
+    "status": "approved",
+    "draftReply": "Dear Sivapriya, thank you for visiting Mirabilis and for sharing your feedback. We are pleased you enjoyed the ambience and Sukla’s service. Your note on vegetarian options is valued, and we will share it with our culinary team as we continue to strengthen the menu. We look forward to welcoming you again."
+  },
+  {
+    "id": "rv-003",
+    "client": "Mirabilis",
+    "platform": "GMB",
+    "reviewer": "Jigar Tikiwala",
+    "rating": 5,
+    "text": "Mr Prem Kumar and Ms Sukla are amazing for their service and exceptional care taking....",
+    "reviewedAt": "2026-09-13T18:00:00+05:30",
+    "status": "posted",
+    "draftReply": "Dear Jigar, thank you for your kind words. We are delighted that Mr Prem Kumar and Ms Sukla made your visit memorable. Our team takes pride in attentive hospitality, and we look forward to serving you again at Mirabilis.",
+    "postedReply": "Dear Jigar, thank you for your kind words. We are delighted that Mr Prem Kumar and Ms Sukla made your visit memorable. Our team takes pride in attentive hospitality, and we look forward to serving you again at Mirabilis."
+  },
+  {
+    "id": "rv-004",
+    "client": "Mirabilis",
+    "platform": "GMB",
+    "reviewer": "Faizan",
+    "rating": 5,
+    "text": "Cool place to chill with friends and very friendly staff.",
+    "reviewedAt": "2026-08-30T21:00:00+05:30",
+    "status": "needs_reply",
+    "draftReply": "Dear Faizan, thank you for taking the time to review Mirabilis. We are pleased you found it a pleasant place to unwind with friends, and that our team was welcoming. We look forward to seeing you again."
+  },
+  {
+    "id": "rv-005",
+    "client": "Naturals",
+    "platform": "Google",
+    "reviewer": "Ananya Krishnan",
+    "rating": 2,
+    "text": "Haircut was okay but waited almost 40 minutes past my appointment at T. Nagar. Staff were polite though.",
+    "reviewedAt": "2026-09-18T15:30:00+05:30",
+    "status": "draft",
+    "draftReply": "Dear Ananya, thank you for your honesty. We’re sorry about the wait at T. Nagar — that isn’t the experience we aim for. We’ve shared your feedback with the salon lead and would love to make it right on your next visit. Please DM us your preferred time."
+  },
+  {
+    "id": "rv-006",
+    "client": "Naturals",
+    "platform": "Google",
+    "reviewer": "Rahul Mehta",
+    "rating": 5,
+    "text": "Best facial in the city. Meera was fantastic!",
+    "reviewedAt": "2026-09-17T12:00:00+05:30",
+    "status": "approved",
+    "draftReply": "Dear Rahul, thank you! We’ll share your kind words with Meera. Delighted you enjoyed your facial — see you again soon at Naturals."
+  },
+  {
+    "id": "rv-007",
+    "client": "24 Roots",
+    "platform": "GMB",
+    "reviewer": "Divya S",
+    "rating": 4,
+    "text": "Great brunch vibes at ECR. Coffee could be stronger. Will come back for the beach view.",
+    "reviewedAt": "2026-09-15T11:20:00+05:30",
+    "status": "needs_reply",
+    "draftReply": "Dear Divya, thank you for joining us at 24 Roots! Glad the brunch and beach view hit the spot — we’ll pass your coffee note to the bar. Looking forward to welcoming you again."
+  },
+  {
+    "id": "rv-008",
+    "client": "INORBIT",
+    "platform": "Google",
+    "reviewer": "Karthik R",
+    "rating": 5,
+    "text": "Smooth parking and clean washrooms. Good weekend outing with kids.",
+    "reviewedAt": "2026-09-14T17:45:00+05:30",
+    "status": "posted",
+    "draftReply": "Dear Karthik, thank you for visiting INORBIT and for the lovely note. We’re glad the weekend outing with your kids went smoothly — see you again soon!",
+    "postedReply": "Dear Karthik, thank you for visiting INORBIT and for the lovely note. We’re glad the weekend outing with your kids went smoothly — see you again soon!"
+  }
+]
